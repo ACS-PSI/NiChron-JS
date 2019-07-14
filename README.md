@@ -1,3 +1,3 @@
 # NiChron-JS
-JS PLUGINS
-This is a small free library for your project.
+is a small free library for your project.
+# Use
